@@ -392,7 +392,7 @@ button:active {
             color: white;
             width: 290px;
             height: 40px;
-            margin-left:10px;
+            margin-left:210px;
             font-size: 20px;
             border-radius: 5px;
             font-family: 'Aoboshi One', serif;
@@ -412,7 +412,7 @@ button:active {
             font-size: 20px;
             font-weight: 400;
             text-align: center;
-            margin-left: 290px;
+            margin-left: 520px;
             position: relative;
             top: -40px;
             width: 290px;
@@ -437,4 +437,3 @@ button:active {
             color: white;
         }
 }
-
